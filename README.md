@@ -2,8 +2,7 @@
 
 
 
-- 🌱 Entusiasta em Data Science.
-- 😄 Ele/Dele.
+- 🌱 Data Science.
 
   ##
 
