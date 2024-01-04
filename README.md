@@ -2,7 +2,10 @@
 
 
 
-- 🌱 Data Science.
+- 📖 Ciência de Dados.
+- 💻 Python.
+- 💹 Mercado Financeiro.
+- 🤖 Inteligência Artificial.
 
   ##
 
